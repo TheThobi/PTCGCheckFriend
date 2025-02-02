@@ -1,0 +1,2 @@
+# PTCGCheckFriend
+PTCG Check Friend
