@@ -18,4 +18,9 @@ It works using random timing variation when clicking buttons to be a bit safer
 - On the bottom right you should see a button with a "+", click it until it does not ask you to change permissions anymore
 - Start PocketTCG and click the little "Check" icon, to stop it simply increase the volume
 
+# Issues
+
+Feel free to increase the waiting times if your phone is pretty slow when opening menus
+
+If it does not manage to check when a new friend appears, dm me on discord your screen resolution (username : thobi)
 
