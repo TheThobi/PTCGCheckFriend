@@ -2,6 +2,9 @@
 
 This macro have been designed to work with Arturo's PTCGPB
 
+I tested it with 2 phones with different resolutions so it should work on yours too, here is a video showing it in action : 
+https://drive.google.com/file/d/1JPXEf0MJKQAhgtauZBxr2hyxhtZEhWAv/view?usp=sharing
+
 This macro can be used to automatically check for new friends and add them as they appear
 To avoid spamming server request the macro refresh the social hun every 4-6 seconds so you should specifiy a waiting time around 10-15s 
 It works using random timing variation when clicking buttons to be a bit safer
@@ -14,8 +17,5 @@ It works using random timing variation when clicking buttons to be a bit safer
 - At this time it requires you to change your device screen resolution (look at the 2 firsts lines when you load the macro) :
 - On the bottom right you should see a button with a "+", click it until it does not ask you to change permissions anymore
 - Start PocketTCG and click the little "Check" icon, to stop it simply increase the volume
-
-I tested it with 2 phones with different resolutions so it should work on yours too, here is a video showing it in action : 
-https://drive.google.com/file/d/1JPXEf0MJKQAhgtauZBxr2hyxhtZEhWAv/view?usp=sharing
 
 
