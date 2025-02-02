@@ -16,7 +16,8 @@ It works using random timing variation when clicking buttons to be a bit safer
 - You'll be prompted to change permissions so Macrodroid can do stuff on his own like emulating clicks on your screen, feel free to analyze the code before, it's not that much long
 - At this time it requires you to change your device screen resolution (look at the 2 firsts lines when you load the macro) :
 - On the bottom right you should see a button with a "+", click it until it does not ask you to change permissions anymore
-- Start PocketTCG and click the little "Check" icon, to stop it simply increase the volume
+- Start PocketTCG and click the little "Check" icon
+- To stop it, increase the volume
 
 # Issues
 
