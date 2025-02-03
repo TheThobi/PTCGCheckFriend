@@ -27,3 +27,7 @@ If it does not manage to check when a new friend appears, dm me on discord your 
 
 If after pressing the macro, the social hub do not even update every 4-6 seconds, it means that macrodroid do not have the rights to emulate click on your screen
 
+# TODO :
+
+Another macro to remove all friends then stops
+
