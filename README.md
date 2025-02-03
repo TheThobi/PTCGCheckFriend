@@ -14,7 +14,7 @@ It works using random timing variation when clicking buttons to be a bit safer
 - First you need to install macrodroid
 - Download the .macro on the repo on your phone then choose to execute with MacroDroid
 - You'll be prompted to change permissions so Macrodroid can do stuff on his own like emulating clicks on your screen, feel free to analyze the code before, it's not that much long
-- At this time it requires you to change your device screen resolution (look at the 2 firsts lines when you load the macro) :
+- At this time it requires you to change your device screen resolution (look at the 2 firsts lines when you load the macro)
 - On the bottom right you should see a button with a "+", click it until it does not ask you to change permissions anymore
 - Start PocketTCG and click the little "Check" icon
 - To stop it, increase the volume
@@ -24,4 +24,6 @@ It works using random timing variation when clicking buttons to be a bit safer
 Feel free to increase the waiting times if your phone is pretty slow when opening menus
 
 If it does not manage to check when a new friend appears, dm me on discord your screen resolution (username : thobi)
+
+If after pressing the macro, the social hub do not even update every 4-6 seconds, it means that macrodroid do not have the rights to emulate click on your screen
 
