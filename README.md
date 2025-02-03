@@ -1,6 +1,6 @@
 # PTCG Check Friend Macro for Macrodroid
 
-This macro have been designed to work with Arturo's PTCGPB
+This macro have been designed to work with **Arturo's PTCGPB** and works only on **Android**
 
 I tested it with 2 phones with different resolutions so it should work on yours too, here is a video showing it in action : 
 https://drive.google.com/file/d/1JPXEf0MJKQAhgtauZBxr2hyxhtZEhWAv/view?usp=sharing
