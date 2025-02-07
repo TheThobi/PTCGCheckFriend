@@ -6,8 +6,11 @@ I tested it with 2 phones with different resolutions so it should work on yours 
 https://drive.google.com/file/d/1JPXEf0MJKQAhgtauZBxr2hyxhtZEhWAv/view?usp=sharing
 
 This macro can be used to automatically check for new friends and add them as they appear
-To avoid spamming server request the macro refresh the social hun every 4-6 seconds so you should specifiy a waiting time around 10-15s 
+To avoid spamming server request the macro refresh the social hub every 4-6 seconds so you should specifiy a waiting time around 10-15s 
 It works using random timing variation when clicking buttons to be a bit safer
+
+The variant macro Clean & Check Friends can be used to remove all friends first then accept all profiles, it can be usefull when your requests are full of old bots that are already done removing ppl
+It's dependent of the Check Friends macro so you do need to have both installed if you want to use it and **be in the friend request page before you use it **
 
 # Installation
 
