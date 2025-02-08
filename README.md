@@ -9,7 +9,7 @@ To avoid spamming server request the macro refresh the social hub every 4-6 seco
 It works using random timing variation when clicking buttons to be a bit safer
 
 The variant macro Clean & Check Friends can be used to remove all friends first then accept all profiles, it can be usefull when your requests are full of old bots that are already done removing ppl
-It's dependent of the Check Friends macro so you do need to have both installed if you want to use it and **be in the friend request page before you use it**
+It's dependent on the Check Friends macro so you do need to have both installed if you want to use it and **be in the friend request page before you use it**
 
 # Installation
 
