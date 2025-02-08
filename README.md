@@ -21,15 +21,18 @@ It's dependent of the Check Friends macro so you do need to have both installed 
 - Start PocketTCG and click the little "Check" icon
 - To stop it, increase the volume
 
+# Compatibilities
+
+Known working Screen res :
+- 2700x1224
+- 2400x1080
+
 # Issues
 
 Feel free to increase the waiting times if your phone is pretty slow when opening menus
 
-If it does not manage to check when a new friend appears, dm me on discord your screen resolution (username : thobi)
+If it does not manage to check when a new friend appears, it might not be compatible with you screen resolution
 
-If after pressing the macro, the social hub do not even update every 4-6 seconds, it means that macrodroid do not have the rights to emulate click on your screen
+If after pressing the macro, the social hub do not even update every 4-6 seconds, it means that macrodroid do not have the rights to emulate click on your screen, on non-rooted devices it can happens frequently the first time installed, restarting you phone should fix the issue
 
-# TODO :
-
-Another macro to remove all friends then stops
 
