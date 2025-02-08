@@ -1,4 +1,4 @@
-# PTCG Check Friend Macro for Macrodroid
+# PTCG Android Macro AutoAdd Friends for Macrodroid
 
 This macro have been designed to work with **Arturo's PTCGPB** and works only on **Android**
 
