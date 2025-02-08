@@ -26,6 +26,7 @@ It's dependent of the Check Friends macro so you do need to have both installed 
 Known working Screen res :
 - 2700x1224
 - 2400x1080
+- 3200x1440
 
 # Issues
 
